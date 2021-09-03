@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @AkaraChen
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi there! I'm @AkaraChen, a student currently study in college
 
-<!---
-AkaraChen/AkaraChen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m enjoy Galgame (especially 月に寄りそう乙女の作法 ) / Anime / Coding
+
+🌱 I’m currently learning Computer Science , I want to be a front-end engineer in the future
+
+📫 I am able to use javascript / node / python / golang / a little Java
