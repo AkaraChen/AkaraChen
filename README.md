@@ -60,7 +60,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akarachen&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![Akara's GitHub stats](https://github-readme-stats.vercel.app/api?username=akarachen&hide=issues,prs&show_icons=true)
 
-# Blog posts
+## 📕Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
 - [简单学了下 Caddy（上）](https://blog.akr.moe/archives/20/)
 - [JSP/Servlet 学习笔记 &lpar;2021/12/26&rpar;](https://blog.akr.moe/archives/19/)
