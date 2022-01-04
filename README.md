@@ -7,3 +7,8 @@
 📫 I am able to use javascript / node / python / golang / a little Java
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akarachen&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![Akara's GitHub stats](https://github-readme-stats.vercel.app/api?username=akarachen&hide=issues,prs&show_icons=true)
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
