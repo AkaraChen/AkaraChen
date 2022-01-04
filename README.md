@@ -62,4 +62,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [简单学了下 Caddy（上）](https://blog.akr.moe/archives/20/)
+- [JSP/Servlet 学习笔记 &lpar;2021/12/26&rpar;](https://blog.akr.moe/archives/19/)
+- [Spring Boot 学习笔记 &lpar;2021/12/22&rpar;](https://blog.akr.moe/archives/18/)
+- [Java 学习笔记 &lpar;2021/12/21&rpar;](https://blog.akr.moe/archives/17/)
+- [数据库学习笔记 &lpar;2021/12/21&rpar;](https://blog.akr.moe/archives/16/)
 <!-- BLOG-POST-LIST:END -->
