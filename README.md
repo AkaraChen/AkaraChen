@@ -33,7 +33,7 @@
 
 ## 📕Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
-- [JS 实现闭包](https://blog.akr.moe/archives/24/)
+- [JS 闭包特性](https://blog.akr.moe/archives/24/)
 - [CTF day 02](https://blog.akr.moe/archives/23/)
 - [CTF day 01](https://blog.akr.moe/archives/22/)
 - [记一次破防瞬间](https://blog.akr.moe/archives/21/)
