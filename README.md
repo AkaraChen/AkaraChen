@@ -33,9 +33,9 @@
 
 ## 📕Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [记录一下 node-gyp 报错的问题](https://blog.akr.moe/archives/25/)
 - [JS 闭包特性](https://blog.akr.moe/archives/24/)
 - [CTF day 02](https://blog.akr.moe/archives/23/)
 - [CTF day 01](https://blog.akr.moe/archives/22/)
 - [记一次破防瞬间](https://blog.akr.moe/archives/21/)
-- [简单学了下 Caddy（上）](https://blog.akr.moe/archives/20/)
 <!-- BLOG-POST-LIST:END -->
