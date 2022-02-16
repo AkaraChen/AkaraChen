@@ -27,9 +27,9 @@
 
 ## 📕Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
-- [看到博客的都给我关注嘉然今天吃什么😭😭😭](https://blog.akr.moe/archives/26/)
-- [记录一下 node-gyp 报错的问题](https://blog.akr.moe/archives/25/)
-- [JS 闭包特性](https://blog.akr.moe/archives/24/)
-- [CTF day 02](https://blog.akr.moe/archives/23/)
-- [CTF day 01](https://blog.akr.moe/archives/22/)
+- [记录一下 node-gyp 报错的问题](https://blog.akr.moe/node-gyp-err.html)
+- [JS 闭包特性](https://blog.akr.moe/js-closure.html)
+- [简单学了下 Caddy &lpar;上&rpar;](https://blog.akr.moe/caddy.html)
+- [记一次破防瞬间](https://blog.akr.moe/pofang.html)
+- [优化 Windows 字体渲染](https://blog.akr.moe/hint.html)
 <!-- BLOG-POST-LIST:END -->
