@@ -27,9 +27,9 @@
 
 ## 📕Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [今天优化了下 Hexo](https://blog.akr.moe/solve-hexo-warning.html)
 - [把之前 notion 的笔记导出了](https://blog.akr.moe/notion.html)
 - [记录一下 node-gyp 报错的问题](https://blog.akr.moe/node-gyp-err.html)
 - [JS 闭包特性](https://blog.akr.moe/js-closure.html)
 - [记一次破防瞬间](https://blog.akr.moe/pofang.html)
-- [优化 Windows 字体渲染](https://blog.akr.moe/hint.html)
 <!-- BLOG-POST-LIST:END -->
