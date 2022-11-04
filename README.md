@@ -1,6 +1,8 @@
 ## 👋 Hi there! I'm @AkaraChen
 
-![:akarachen](https://count.getloli.com/get/@akarachen?theme=asoul)
+> Available for hiring! Feel free to contact me if you're interested.
+
+![:akarachen](https://count.getloli.com/get/@akarachen)
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
