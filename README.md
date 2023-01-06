@@ -9,5 +9,3 @@
 ## My Tech Stack
 
 ![Tech Stack](https://skillicons.dev/icons?i=vue,nuxtjs,react,nextjs,lit,tailwind,ts,vite,rollup,webpack,nodejs,mysql,express,go,git,py,jest,html,css,js&perline=5)
-
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31vsl32sfegmjgt2c57uno7nhk7y)
