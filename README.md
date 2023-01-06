@@ -8,4 +8,4 @@
 
 ## My Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=vue,nuxtjs,react,nextjs,lit,tailwind,ts,vite,rollup,webpack,nodejs,mysql,express,go,git,py,jest,html,css,js&perline=5)
+![Tech Stack](https://skillicons.dev/icons?i=vue,nuxtjs,react,nextjs,lit,tailwind,ts,vite,rollup,webpack,nodejs,mysql,express,go,git,py,jest)
