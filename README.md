@@ -8,4 +8,14 @@
 
 ## My Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=vue,nuxtjs,react,nextjs,lit,tailwind,ts,vite,rollup,webpack,nodejs,mysql,express,go,git,py,jest)
+### Language & Framework
+
+![Language & Framework](https://skillicons.dev/icons?i=vue,nuxtjs,react,nextjs,lit,tailwind,ts,express,go,py,bootstrap)
+
+### Tools
+
+![Tools](https://skillicons.dev/icons?i=vite,rollup,webpack,nodejs,mysql,git,py,jest,vercel,cloudflare,github)
+
+### Want to learn
+
+![Want to learn](https://skillicons.dev/icons?i=rust,apollo,cpp,deno,docker,graphql,kubernetes,nginx,reactivex,regex,tauri)
