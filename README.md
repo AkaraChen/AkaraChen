@@ -10,7 +10,7 @@
 
 ### Language & Framework
 
-![Language & Framework](https://skillicons.dev/icons?i=vue,nuxtjs,react,nextjs,lit,tailwind,ts,express,go,py,bootstrap)
+![Language & Framework](https://skillicons.dev/icons?i=ts,go,css,py,vue,nuxtjs,react,nextjs,lit,tailwind,bootstrap)
 
 ### Tools
 
