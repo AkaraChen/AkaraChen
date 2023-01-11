@@ -14,7 +14,7 @@
 
 ### Tools
 
-![Tools](https://skillicons.dev/icons?i=vite,rollup,webpack,nodejs,mysql,git,py,jest,vercel,cloudflare,github)
+![Tools](https://skillicons.dev/icons?i=vscode,vite,rollup,webpack,nodejs,mysql,git,jest,vercel,cloudflare,github)
 
 ### Want to learn
 
