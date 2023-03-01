@@ -1,7 +1,5 @@
 # 👋 Hi there! I'm @AkaraChen
 
-> Available for hiring! Feel free to contact me if you're interested.
-
 ![:akarachen](https://count.getloli.com/get/@akarachen)
 
 ![](https://github-readme-stats.vercel.app/api?username=akarachen)
