@@ -4,7 +4,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=akarachen)
 
-## My Tech Stack
+## I can use / I hate
 
 ### Language & Framework
 
@@ -13,7 +13,3 @@
 ### Tools
 
 ![Tools](https://skillicons.dev/icons?i=vscode,rollup,vite,webpack,nodejs,jest,vercel,mysql,githubactions)
-
-### Want to learn
-
-![Want to learn](https://skillicons.dev/icons?i=rust,apollo,zig,deno,docker,graphql,kubernetes,nginx,reactivex)
