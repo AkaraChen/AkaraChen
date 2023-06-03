@@ -8,8 +8,8 @@
 
 ### Language & Framework
 
-![Language & Framework](https://skillicons.dev/icons?i=ts,react,nextjs,go,tailwind,css,lit,vue,solidjs)
+![Language & Framework](https://skillicons.dev/icons?i=ts,react,nextjs,flutter,go,tailwind,css,solidjs)
 
 ### Tools
 
-![Tools](https://skillicons.dev/icons?i=vscode,rollup,vite,webpack,nodejs,jest,vercel,mysql,githubactions)
+![Tools](https://skillicons.dev/icons?i=idea,vscode,rollup,vite,webpack,nodejs,jest,githubactions)
