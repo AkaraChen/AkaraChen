@@ -1,3 +1,7 @@
+## Tokens & Cost
+
+<img src="https://tokscale.ai/api/embed/AkaraChen/svg?sort=cost&template=minimal&graph=1&rank=percent&tokens=full&cost=full" alt="Tokscale stats for AkaraChen" width="600" />
+
 ## Langs & Framework
 
 <img src="https://skillicons.dev/icons?i=typescript,dart,go,rust,py,kotlin,react,vue,astro,fastapi,nestjs,nextjs,flutter,remix,tailwind" />
