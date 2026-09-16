@@ -1,3 +1,5 @@
+<img src="https://ghfind.com/api/card/mini/akarachen?variant=radar&theme=dark" alt="ghfind radar card for @akarachen" width="440" />
+
 ## Tokens & Cost
 
 <img src="https://tokscale.ai/api/embed/AkaraChen/svg?sort=cost&template=minimal&graph=1&rank=percent&tokens=full&cost=full" alt="Tokscale stats for AkaraChen" width="600" />
